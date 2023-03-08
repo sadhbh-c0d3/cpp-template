@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.22)
-PROJECT(digital_asset_exchange)
+PROJECT(dockerized_cpp_code_template)
 
 SET(CMAKE_CXX_STANDARD 20)
 SET(CMAKE_CXX_STANDARD_REQUIRED ON)
