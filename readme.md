@@ -1,3 +1,5 @@
+![dcpptpl](https://github.com/sadhbh-c0d3/cpp-template/assets/80485211/71aa7e61-024c-4884-b858-8be03a1b4142)
+
 # Dockerized C++ Code Template
 
 ### _Start your C++ project without hassle!_
